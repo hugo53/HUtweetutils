@@ -11,7 +11,6 @@ import sys
 import json
 
 
-
 def search(query):
     url = 'http://search.twitter.com/search.json?q='
     url +=query

@@ -1,8 +1,19 @@
 TWITTER UTILS
--------------
+================================================================================
 Author: Minh-Hoang, Nguyen
 Date  : 20/03/2012
+================================================================================
+
 -------------
+Dependencies
+-------------
+tweepy :   https://github.com/tweepy/tweepy
+Tkinter:   sudo apt-get install python python-tk idle python-pmw python-imaging 
+	   in Debian
+	or yum install tkinter in Fedora Core 3  
+	or see http://tkinter.unpythonic.net/wiki/How_to_install_Tkinter for 
+	   more details
+
 -----------
 How to use:
 -----------
@@ -21,4 +32,5 @@ License:
   All HUsyntactic source files are made available under the terms of the
   GNU Affero General Public License (AGPL).  See GNU-AGPL-3.0 files for
   details.
+
 
