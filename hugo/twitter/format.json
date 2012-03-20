@@ -1,0 +1,49 @@
+{
+	"completed_in":0.057,
+	"max_id":179979915523923971,
+	"max_id_str":"179979915523923971",
+	"page":1,
+	"query":"mrhoangnm",
+	"refresh_url":"?since_id=179979915523923971&q=mrhoangnm",
+	"results":
+		[
+			{
+				"created_at":"Wed, 14 Mar 2012 17:18:5+0000",
+				"from_user":"mrhoangnm","from_user_id":354382450,
+				"from_user_id_str":"354382450",
+				"from_user_name":"Minh-Hoang Nguyen",
+				"geo":null,"id":179979915523923971,
+				"id_str":"179979915523923971",
+				"iso_language_code":"nl",
+				"metadata":{
+						"result_type":"recent"
+						},
+				"profile_image_url":"http:\/\/a0.twimg.com\/profile_images\/1678291001\/14012010_047__normal.jpg",
+				"profile_image_url_https":"https:\/\/si0.twimg.com\/profile_images\/1678291001\/14012010_047__normal.jpg",
+				"source":"&lt;a href=&quot;https:\/\/launchpad.net\/gwibber&quot; rel=&quot;nofollow&quot;&gt;Gwibber-Fedora&lt;\/a&gt;",
+				"text":"#hugojoomla http:\/\/t.co\/7DRo8GyN  build joomla in fedora","to_user":null,
+				"to_user_id":null,"to_user_id_str":null,"to_user_name":null
+			},
+			{
+				"created_at":"Wed, 14 Mar 2012 09:16:32 +0000",
+				"from_user":"mrhoangnm",
+				"from_user_id":354382450,
+				"from_user_id_str":"354382450",
+				"from_user_name":"Minh-Hoang Nguyen",
+				"geo":null,
+				"id":179858539722981376,
+				"id_str":"179858539722981376",
+				"iso_language_code":"de",
+				"metadata":{
+						"result_type":"recent"
+						},
+				"profile_image_url":"http:\/\/a0.twimg.com\/profile_images\/1678291001\/14012010_047__normal.jpg",
+				"profile_image_url_https":"https:\/\/si0.twimg.com\/profile_images\/1678291001\/14012010_047__normal.jpg",
+				"source":"&lt;a href=&quot;https:\/\/launchpad.net\/gwibber&quot; rel=&quot;nofollow&quot;&gt;Gwibber-Fedora&lt;\/a&gt;",
+				"text":"#hugolatex Use \\bibpunct\u007b[\u007d\u007b]\u007d\u007b,\u007d\u007ba\u007d\u007b\u007d\u007b;\u007d http:\/\/t.co\/KgvQCwxt  to change  bibliography in latex","to_user":null,"to_user_id":null,"to_user_id_str":null,"to_user_name":null
+			}
+	],
+	"results_per_page":15,
+	"since_id":0,
+	"since_id_str":"0"
+}
