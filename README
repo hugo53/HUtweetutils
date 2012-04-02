@@ -17,7 +17,17 @@ Tkinter:   sudo apt-get install python python-tk idle python-pmw python-imaging
 -----------
 How to use:
 -----------
-run python GUI.py to call interface and use!
+$pwd
+HUtweetutils
+
+Create Database:
+    $mysqld &
+    $mysql -u root -p
+    type password
+    mysql> source twittersearch.sql
+
+Run:
+    python hugo/twitter/GUI.py to call interface and use!
 
 -------------
 Features:
