@@ -1,6 +1,7 @@
 #TWITTER UTILS
 ================================================================================
 Author: Minh-Hoang, Nguyen
+
 Date  : 20/03/2012
 ================================================================================
 
@@ -9,9 +10,9 @@ tweepy :   ```https://github.com/tweepy/tweepy```
 
 Tkinter:   ```sudo apt-get install python python-tk idle python-pmw python-imaging``` in Debian
 
-	or ```yum install tkinter``` in Fedora Core 3
+or ```yum install tkinter``` in Fedora Core 3
 	
-	or see [http://tkinter.unpythonic.net/wiki/How_to_install_Tkinter](http://tkinter.unpythonic.net/wiki/How_to_install_Tkinter) for 
+or see [http://tkinter.unpythonic.net/wiki/How_to_install_Tkinter](http://tkinter.unpythonic.net/wiki/How_to_install_Tkinter) for 
 	   more details
 
 
