@@ -3,7 +3,7 @@
 Author: Minh-Hoang, Nguyen
 
 Date  : 20/03/2012
-
+================================
 
 ##Dependencies
 tweepy :   ```https://github.com/tweepy/tweepy```
@@ -32,7 +32,7 @@ mysql> source twittersearch.sql
 ```
 Run:
 ```
-    python hugo/twitter/GUI.py to call interface and use!
+python hugo/twitter/GUI.py to call interface and use!
 ```
 
 ##Features:
