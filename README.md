@@ -3,7 +3,7 @@
 Author: Minh-Hoang, Nguyen
 
 Date  : 20/03/2012
-================================
+
 
 ##Dependencies
 tweepy :   ```https://github.com/tweepy/tweepy```
