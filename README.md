@@ -48,3 +48,7 @@ python hugo/twitter/GUI.py to call interface and use!
   details.
 
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/hugo53/hutweetutils/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
